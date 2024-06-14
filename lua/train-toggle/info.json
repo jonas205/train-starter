@@ -1,0 +1,9 @@
+{
+  "name": "train-toggle",
+  "version": "0.1.0",
+  "title": "Train Toggle",
+  "author": "J000n",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "Adds a hotkey (default: SHIFT + M) to toggle manual and automatic mode when hovering over a train."
+}
